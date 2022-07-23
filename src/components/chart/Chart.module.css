@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.line {
+    color: white;
+    /* background-color: aliceblue; */
+}
